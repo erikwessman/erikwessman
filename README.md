@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="pikachu.gif" />
+  <img src="blastoise.gif" />
 </p>
