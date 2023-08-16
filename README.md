@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="snorlax.gif" />
+  <img src="blastoise.gif" />
 </p>
